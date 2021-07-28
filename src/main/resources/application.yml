@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://user-test:rhcJcwpqGUgQIcKd@gr-cluster.tucor.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
